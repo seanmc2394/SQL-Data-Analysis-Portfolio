@@ -1,4 +1,4 @@
-# Beginner_SQL_Bookstore_Project
+# Mini_SQL_Bookstore_Project
 
 This project demonstrates my ability to design, build, and query a relational SQL database from scratch. It simulates a bookstore with books, authors, and sales data.
 
