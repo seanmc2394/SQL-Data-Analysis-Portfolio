@@ -41,4 +41,4 @@ This project demonstrates my ability to design, build, and query a relational SQ
 <br>
 
 ## Reflection
-This was my first full SQL project. I built it entirely from scratch, learned how to structure data across multiple tables, and practiced writing basic queries.
+This was my first fully solo SQL project. I built it entirely from scratch, learned how to structure data across multiple tables, and practiced writing queries.
