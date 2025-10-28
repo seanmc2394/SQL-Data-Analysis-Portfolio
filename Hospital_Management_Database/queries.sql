@@ -8,6 +8,7 @@ GROUP BY p.name
 HAVING COUNT(a.appointment_id) > 1
 ORDER BY visit_count DESC;
 
+
 -- Find how many appointments each doctor has
 SELECT 
     d.name AS doctor_name,
