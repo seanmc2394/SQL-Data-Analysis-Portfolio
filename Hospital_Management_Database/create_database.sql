@@ -2,7 +2,7 @@ CREATE DATABASE hospital;
 USE hospital;
 
 
-CREATE TABLE doctors (
+CREATE TABLE doctors ( 
     doctor_id INT PRIMARY KEY,
     name VARCHAR(100),
     specialty VARCHAR(100),
