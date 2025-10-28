@@ -1,5 +1,5 @@
 # Overview
-This SQL project simulates a Hospital Management System, designed to organise data about doctors, patients, departments, and appointments. It demonstrates practical SQL skills such as database design, table creation, data insertion, and query writing using joins, grouping, and filtering.
+This SQL project simulates a Hospital Management System, designed to organise data about doctors, patients, departments, and appointments. It demonstrates practical SQL skills such as database design, table creation, data insertion, and query writing using joins, grouping, and filtering. 
 
 The goal of this project was to build a small but realistic hospital database that tracks:
 - **Doctors** and their medical specialties
