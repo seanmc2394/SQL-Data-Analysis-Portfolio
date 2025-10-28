@@ -14,7 +14,7 @@ INSERT INTO doctors (doctor_id, name, specialty, phone_number, department_id) VA
 (5, 'Dr. Emma Kelly', 'General Practice', '087-555-6666', 5);
 
 
-INSERT INTO patients (patient_id, name, age, gender, phone_number) VALUES
+INSERT INTO patients (patient_id, name, age, gender, phone_number) VALUES 
 (1, 'John Doyle', 34, 'Male', '086-123-4567'),
 (2, 'Sarah Byrne', 28, 'Female', '086-234-5678'),
 (3, 'Michael O’Sullivan', 45, 'Male', '086-345-6789'),
