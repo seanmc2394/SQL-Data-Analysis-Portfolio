@@ -1,5 +1,5 @@
 # Overview
-This SQL project models a small retail sales system, showcasing database design and analytical querying skills.  
+This SQL project mirrors a small retail sales system, showcasing database design and querying skills.  
 It demonstrates how to track customers, products, sales, and transaction details, just like a real-world store.
 
 The goal of this project was to build a relational database that could answer practical business questions such as:
@@ -31,7 +31,6 @@ Some key SQL queries performed in this project include:
 - Find total spent by each customer: `JOIN`, `SUM`, `GROUP BY`
 - Monthly revenue trends: `DATE_FORMAT`, `GROUP BY`
 - Category-wise revenue: `GROUP BY`, `SUM`
-- Average order value per customer: `ROUND`, `COUNT(DISTINCT ...)`
 <br>
 
 ## Tools Used
